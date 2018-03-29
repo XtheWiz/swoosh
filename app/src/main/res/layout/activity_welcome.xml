@@ -94,7 +94,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginStart="16dp"
-        android:background="@drawable/button_get_started"
+        android:background="@drawable/swoosh_button"
         android:fontFamily="@font/montserrat"
         android:text="GET STARTED"
         android:textColor="@android:color/white"
